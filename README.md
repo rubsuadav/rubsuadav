@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I´m rubsuadav </h1>
 
-<div align="center"
+<div align="center">
 -  Gmail: rsuarezdavid@gmail.com
 <br/>
 <h3>Connect with me</h3>
