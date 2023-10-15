@@ -14,6 +14,6 @@
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rubsuadav&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="rubsuadav" height="150"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rubsuadav&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000" alt="rubsuadav" height="150"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubsuadav&show_icons=true&locale=en&layout=compact&hide_border=true&theme=buefy" alt="rubsuadav" height="150" width="350"/></p>
 </div>
