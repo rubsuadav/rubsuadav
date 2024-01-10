@@ -8,6 +8,7 @@
 <h3>Connect with me</h3>
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rub%C3%A9n-su%C3%A1rez-david-4384a6280/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsuadav&label=Profile%20views&color=blue&style=flat" />
 
 
 ### GitHub Stats
