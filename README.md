@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I´m rubsuadav </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rubsuadav&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
 
 <div align="center">
   -  Gmail: rsuarezdavid@gmail.com
@@ -6,9 +7,8 @@
 </div>
 
 <h3>Connect with me</h3>
-    
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rub%C3%A9n-su%C3%A1rez-david-4384a6280/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubsuadav&label=Profile%20views&color=blue&style=flat" />
 
 
 ### GitHub Stats
