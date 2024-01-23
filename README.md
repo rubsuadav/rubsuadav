@@ -12,6 +12,6 @@
 
 
 ### GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rubsuadav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rubsuadav&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubsuadav&theme=dark&layout=compact)
