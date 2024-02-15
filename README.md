@@ -11,6 +11,11 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rub%C3%A9n-su%C3%A1rez-david-4384a6280/)
 
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,nodejs,angular,django,docker,eclipse,firebase,git,github,githubactions,html,js,mongodb,mysql,react,vite,vscode&theme=dark&perline=6)](https://skillicons.dev)
+
+
 ### GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rubsuadav&count_private=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
