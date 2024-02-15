@@ -13,7 +13,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,nodejs,angular,django,docker,eclipse,firebase,git,github,githubactions,html,js,mongodb,mysql,react,vite,vscode&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,nodejs,angular,django,docker,eclipse,firebase,git,github,githubactions,html,js,mongodb,mysql,react,vite,py,express,vscode,css,bootstrap,spring,tailwind&theme=dark&perline=6)](https://skillicons.dev)
 
 
 ### GitHub Stats
